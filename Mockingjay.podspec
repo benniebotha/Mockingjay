@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name = 'Mockingjay'
+  spec.name = 'Mockingjay_url_stub'
   spec.version = '2.0.1'
   spec.summary = 'An elegant library for stubbing HTTP requests with ease in Swift.'
   spec.homepage = 'https://github.com/kylef/Mockingjay'
